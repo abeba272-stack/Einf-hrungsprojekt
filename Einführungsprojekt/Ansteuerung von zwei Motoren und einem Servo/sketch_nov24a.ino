@@ -42,7 +42,7 @@ void loop()
     digitalWrite(RoteLED, HIGH);
   }
   else{
-    ledPWM.write(128);     // test
+    ledPWM.write(128);     // test2
   }
   
   
